@@ -16,6 +16,3 @@ XGBoost was chosen as the final model for deployment based on its evaluation res
 
 ## Tech Stack
 Python, pandas, numpy, scikit-learn, XGBoost, AWS SageMaker, boto3, Streamlit
-
-## Note
-The deployment notebook uses an AWS account ID and role ARN that should be replaced with your own before running this project.
